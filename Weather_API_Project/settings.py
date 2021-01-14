@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '&zf_on@pgw%=6febjqk4gplnsf)0jh0c)^zy4@anz3iu@day&7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 # ALLOWED_HOSTS = ['127:0.0.1:8000', 'dhanusweatherproject.herokuapp.com/']
 
 
@@ -134,7 +134,7 @@ if os.getcwd() == '/app':
     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
     # Allow all host headers
-    ALLOWED_HOSTS = ['django-weatherapi.herokuapp.com', '127.0.0.1']
+    ALLOWED_HOSTS = ['*']
     DEBUG = True
 
     # Static asset configuration

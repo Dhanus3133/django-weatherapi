@@ -11,13 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a9de6fd-1ebc-47bc-8b95-01cd70228c5b" name="Default Changelist" comment="deleted allowed hosts">
-      <change beforePath="$PROJECT_DIR$/.idea/Weather_API_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Weather_API_Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Weather_API_Project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_API_Project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +155,7 @@
       <workItem from="1610609209926" duration="1437000" />
       <workItem from="1610611685477" duration="4345000" />
       <workItem from="1610620299984" duration="106000" />
-      <workItem from="1610624054391" duration="610000" />
+      <workItem from="1610624054391" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="Added gitignore">
       <created>1610560532308</created>
