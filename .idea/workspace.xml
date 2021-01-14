@@ -10,11 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a9de6fd-1ebc-47bc-8b95-01cd70228c5b" name="Default Changelist" comment="deleted allowed hosts">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="3a9de6fd-1ebc-47bc-8b95-01cd70228c5b" name="Default Changelist" comment="Newest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Weather_API_Project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_API_Project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +153,7 @@
       <workItem from="1610609209926" duration="1437000" />
       <workItem from="1610611685477" duration="4345000" />
       <workItem from="1610620299984" duration="106000" />
-      <workItem from="1610624054391" duration="1332000" />
+      <workItem from="1610624054391" duration="2100000" />
     </task>
     <task id="LOCAL-00001" summary="Added gitignore">
       <created>1610560532308</created>
@@ -213,7 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610615410967</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Newest">
+      <created>1610625406791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610625406791</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Newest">
+      <created>1610625803014</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610625803014</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +252,8 @@
     <MESSAGE value="-" />
     <MESSAGE value="added allowed hosts" />
     <MESSAGE value="deleted allowed hosts" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted allowed hosts" />
+    <MESSAGE value="Newest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Newest" />
   </component>
   <component name="WindowStateProjectService">
     <state x="532" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610607874003">
@@ -291,10 +304,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1610624667991" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1610615453687">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1610625804480">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1610615453687" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1610625804480" />
     <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610609590140">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
