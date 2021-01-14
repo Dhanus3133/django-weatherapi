@@ -26,8 +26,8 @@ SECRET_KEY = '&zf_on@pgw%=6febjqk4gplnsf)0jh0c)^zy4@anz3iu@day&7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
-# ALLOWED_HOSTS = ['127:0.0.1:8000', 'dhanusweatherproject.herokuapp.com/']
+# ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['127:0.0.1:8000', 'django-weatherapi.herokuapp.com']
 
 
 # Application definition
@@ -134,7 +134,7 @@ if os.getcwd() == '/app':
     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
     # Allow all host headers
-    ALLOWED_HOSTS = ['*']
+    ALLOWED_HOSTS = ['django-weatherapi.herokuapp.com']
     DEBUG = True
 
     # Static asset configuration
