@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a9de6fd-1ebc-47bc-8b95-01cd70228c5b" name="Default Changelist" comment="removed django_heroku">
+    <list default="true" id="3a9de6fd-1ebc-47bc-8b95-01cd70228c5b" name="Default Changelist" comment="added allowed hosts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +150,7 @@
       <workItem from="1610559170654" duration="1484000" />
       <workItem from="1610606385350" duration="2738000" />
       <workItem from="1610609209926" duration="1437000" />
-      <workItem from="1610611685477" duration="2400000" />
+      <workItem from="1610611685477" duration="3382000" />
     </task>
     <task id="LOCAL-00001" summary="Added gitignore">
       <created>1610560532308</created>
@@ -187,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610613742948</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="-">
+      <created>1610614276431</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610614276431</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added allowed hosts">
+      <created>1610614417642</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610614417642</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +225,9 @@
     <MESSAGE value="delete sqlite" />
     <MESSAGE value="added" />
     <MESSAGE value="removed django_heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed django_heroku" />
+    <MESSAGE value="-" />
+    <MESSAGE value="added allowed hosts" />
+    <option name="LAST_COMMIT_MESSAGE" value="added allowed hosts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="532" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610607874003">
@@ -258,14 +274,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="407" y="194" key="MultipleFileMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1610609606432" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1610609155519">
+    <state x="277" y="77" key="SettingsEditor" timestamp="1610615094492">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1610609155519" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1610613745493">
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1610615094492" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1610614420464">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1610613745493" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1610614420464" />
     <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610609590140">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
