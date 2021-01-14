@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a9de6fd-1ebc-47bc-8b95-01cd70228c5b" name="Default Changelist" comment="=">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_API_Project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_API_Project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +150,7 @@
       <workItem from="1610559170654" duration="1484000" />
       <workItem from="1610606385350" duration="2738000" />
       <workItem from="1610609209926" duration="1437000" />
-      <workItem from="1610611685477" duration="930000" />
+      <workItem from="1610611685477" duration="1446000" />
     </task>
     <task id="LOCAL-00001" summary="Added gitignore">
       <created>1610560532308</created>
