@@ -25,7 +25,7 @@ SECRET_KEY = '&zf_on@pgw%=6febjqk4gplnsf)0jh0c)^zy4@anz3iu@day&7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['dhanusapiprojet.herokuapp.com']
 # ALLOWED_HOSTS = ['127:0.0.1:8000', 'dhanusweatherproject.herokuapp.com/']
 
 
